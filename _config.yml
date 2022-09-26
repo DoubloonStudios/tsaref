@@ -1,7 +1,7 @@
 title: TSA Reference
 description: An open resource for learning about TSA
-baseurl: "/tsaref"
-url: "https://doubloonstudios.github.io"
+#baseurl: "/tsaref"
+url: "https://github.dfb.epizy.com"
 
 remote_theme: pmarsceill/just-the-docs
 
